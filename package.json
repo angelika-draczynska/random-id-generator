@@ -1,0 +1,8 @@
+{
+  "name": "@angelikadraczynska/random-id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/angelikadraczynska/random-id-generator.git",
+  "author": "Angelika Draczynska <nayrissa@outlook.com>",
+  "license": "MIT"
+}
